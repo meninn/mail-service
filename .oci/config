@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaxf6xbkmzthky6gu4pwbvp3sicrmy6djokg7zhm52qv5hkoxbwcoq
+fingerprint=a9:55:43:2a:8f:ad:40:f0:ba:56:e0:f4:bf:ea:62:a4
+tenancy=ocid1.tenancy.oc1..aaaaaaaat6nadcodvtaqjdzvkjxj7afw7a4zuzxtldff5i4taooe3gkngr5a
+region=sa-saopaulo-1
+key_file=/Users/meninn/oracle-private-key.pem

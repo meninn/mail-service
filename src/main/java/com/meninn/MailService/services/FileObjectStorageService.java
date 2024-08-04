@@ -1,6 +1,6 @@
-package com.example.MailService.services;
+package com.meninn.MailService.services;
 
-import com.example.MailService.config.ObjectStorageClientConfig;
+import com.meninn.MailService.config.ObjectStorageClientConfig;
 import com.oracle.bmc.objectstorage.requests.GetObjectRequest;
 import com.oracle.bmc.objectstorage.responses.GetObjectResponse;
 import org.springframework.beans.factory.annotation.Autowired;

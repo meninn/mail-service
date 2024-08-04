@@ -1,4 +1,4 @@
-package com.example.MailService.services;
+package com.meninn.MailService.services;
 
 import jakarta.mail.internet.MimeMessage;
 import org.springframework.beans.factory.annotation.Autowired;

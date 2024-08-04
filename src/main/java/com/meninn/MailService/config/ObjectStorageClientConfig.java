@@ -1,4 +1,4 @@
-package com.example.MailService.config;
+package com.meninn.MailService.config;
 
 import com.oracle.bmc.ConfigFileReader;
 import com.oracle.bmc.Region;
